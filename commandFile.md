@@ -1,2 +1,4 @@
 ---
-I use command line to add a new file and push it to Github!
+layout: slide
+title: "Welcome to Emily's Github introduction practice!"
+---
